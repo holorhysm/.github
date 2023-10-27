@@ -45,7 +45,7 @@
     - 実況プレイなどの配信(動画投稿など)について、私達があなたに悪意を見出さない限り、holorhysm開発チームが公開停止や中止を求めることはありません。
         - ただし、[hololive production 二次創作ガイドライン](https://hololivepro.com/terms/)に注意してください。
     - 広告や投げ銭などで収入を得る場合は、必ず概要欄にクレジット表記をお願いします。クレジット表記がない場合、私達はそこに悪意を見出します。
-        - クレジット表記には、"holorhysm"と"https://github.com/holorhysm"を表記する必要があります。
+        - クレジット表記には、"holorhysm"と"[https://github.com/holorhysm](https://github.com/holorhysm)"を表記する必要があります。
             - 例 : `Now playing : "holorhysm" - https://github.com/holorhysm`
     - いずれかのSNSで、登録者・フォロー者数が20万を超えている人は、可能な限り事前に許諾が必要です。
         - 連絡先は`ayagawap@gmail.com`・Twitterの`@AyaKoto_info`or`@holorhysm_dev`です。
