@@ -1,0 +1,63 @@
+name: (system, assets)devfixを報告
+description: 開発中バージョンのバグを報告します
+title: "[devfix]: "
+labels: ["devfix"]
+body:
+  - type: textarea
+    attributes:
+      label: 現在の動作
+      description: |
+        あなたが不具合だと感じている事象は何ですか？
+        「どの画面で何が起こるか」を記入してください。
+      placeholder: 
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 再現手順
+      description: |
+        その事象を再現するために、どのような手順をとれば良いと考えられますか？
+        行う操作を箇条書き(`- 操作`)で記載してください。
+      placeholder: 
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 期待される動作
+      description: |
+        その事象が起こっている部分は、本来どのように動くべきだと考えていますか？
+        - 起こるべきであると考える動作を詳しく教えてください。
+      placeholder: 
+      value: ""
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 環境
+      description: |
+        その事象はどの環境で発生しましたか？
+        - その事象を発見したときに使っていた環境や、事象の再現に成功した環境を記入してください。
+        - 記入テンプレート
+          ```md
+          - 発生者 : 人の名前(\@ID)
+              - 端末 : Apple iPhone XR
+              - OS : iOS 16.3
+              - ブラウザ : Safari
+        - ブラウザとは`Google Chrome`、`Safari`などのことです。
+        - その事象を発見したときに使っていたOS(や、再現が成功したOS)の名前とバージョンを箇条書きで書いてください。
+            - iOS/iPadOS端末なら、`[設定]>[一般]>[情報]>[iOSバージョン]`からバージョンを確認できます。
+            - Android端末なら`[設定]>[デバイス情報]>[Androidバージョン]`からバージョンを確認できます。
+          ```
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 備考
+      description: |
+        - 各種補足情報を箇条書きで書いてください。
+        - 再現に"端末・OS・ブラウザ"以外の条件が必要な場合はここに書いてください。
+        - その他、開発メンバーに伝えるべきと思われることがあればここに書いてください。
+    validations:
+      required: false
