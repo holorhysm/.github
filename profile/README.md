@@ -7,22 +7,12 @@
 
 ## リポジトリ
 
-<div class="customize-images">
-    <style style="display:none">
-    .customize-images {
-        display: block flex;
-        width:100%;
-        aspect-ratio: 6.2;
-        justify-content: center;
-    }
-    </style>
-    <a href="https://github.com/holorhysm/.github"><img src="./../assets/repo-thumbnail/.github.png"></a>
-    <a href="https://github.com/holorhysm/system"><img src="./../assets/repo-thumbnail/system.png"></a>
-    <a href="https://github.com/holorhysm/holorhysm.github.io"><img src="./../assets/repo-thumbnail/github.io.png"></a>
-    <a href="https://github.com/holorhysm/editor"><img src="./../assets/repo-thumbnail/editor.png"></a>
-    <a href="https://github.com/holorhysm/promotion"><img src="./../assets/repo-thumbnail/promotion.png"></a>
-    <a href="https://github.com/holorhysm/assets"><img src="./../assets/repo-thumbnail/assets.png"></a>
-</div>
+<a href="https://github.com/holorhysm/.github"><img src="./../assets/repo-thumbnail/.github.png" width="140px"></a>
+<a href="https://github.com/holorhysm/system"><img src="./../assets/repo-thumbnail/system.png" width="140px"></a>
+<a href="https://github.com/holorhysm/holorhysm.github.io"><img src="./../assets/repo-thumbnail/github.io.png" width="140px"></a>
+<a href="https://github.com/holorhysm/editor"><img src="./../assets/repo-thumbnail/editor.png" width="140px"></a>
+<a href="https://github.com/holorhysm/promotion"><img src="./../assets/repo-thumbnail/promotion.png" width="140px"></a>
+<a href="https://github.com/holorhysm/assets"><img src="./../assets/repo-thumbnail/assets.png" width="140px"></a>
 
 ## 遊び方
 
