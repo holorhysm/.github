@@ -7,12 +7,12 @@
 
 ## リポジトリ
 
-<a href="https://github.com/holorhysm/.github"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.png" width="140px"></a>
-<a href="https://github.com/holorhysm/system"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/system.png" width="140px"></a>
-<a href="https://github.com/holorhysm/holorhysm.github.io"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.io.png" width="140px"></a>
-<a href="https://github.com/holorhysm/editor"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/editor.png" width="140px"></a>
-<a href="https://github.com/holorhysm/promotion"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/promotion.png" width="140px"></a>
-<a href="https://github.com/holorhysm/assets"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/assets.png" width="140px"></a>
+<a href="https://github.com/holorhysm/.github"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.png" width="137px"></a>
+<a href="https://github.com/holorhysm/system"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/system.png" width="137px"></a>
+<a href="https://github.com/holorhysm/holorhysm.github.io"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.io.png" width="137px"></a>
+<a href="https://github.com/holorhysm/editor"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/editor.png" width="137px"></a>
+<a href="https://github.com/holorhysm/promotion"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/promotion.png" width="137px"></a>
+<a href="https://github.com/holorhysm/assets"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/assets.png" width="137px"></a>
 
 ## 遊び方
 
