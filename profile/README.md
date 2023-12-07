@@ -27,11 +27,12 @@
 
 - システム
     - Copyright (c) 2023- Ayasaka-Koto
-        - Twitter(𝕏) : [@AyaKoto_info](https://twitter.com/AyaKoto_info)
+        - Twitter(𝕏) : [@AXT_AyaKoto](https://twitter.com/i/user/1421232922594406400)
+        - Twitter(𝕏) : [@holorhysm](https://twitter.com/i/user/1673203052348846080)
 - 譜面
-    - Copyright (c) 2023- holorhysm charter team
-        - Twitter(𝕏) : [@holorhysm_dev](https://twitter.com/holorhysm_dev)
-        - チームメンバーは[Twitterのリスト](https://twitter.com/i/lists/1696356193327804694)を参照
+    - 譜面ファイルに関する権利は、現状各譜面制作者が持っています。
+        - 譜面制作者に非営利目的での利用の許諾を得た上で、譜面を収録しています。
+    - 譜面制作メンバーの一覧は[Twitterのリスト](https://twitter.com/i/lists/1696356193327804694)を参照。
 - その他
     - Respecting Cover corp.
         - このゲームは、カバー株式会社運営のVtuber事務所「hololive production」をテーマにしています。
@@ -48,18 +49,19 @@
     - 原則、非営利目的かつ"世界に優しい使い方"なら、自由に使用して構いません。
     - このシステムの全体または大部分を翻案する場合は、可能な限りholorhysmを元にしていることを明記してください。
 - 譜面ファイル
-    - 原則、原作譜面を一切改変せずに二次配布することを禁じます。
-    - 原作者(権利者)表記をファイル内に記載すれば、原作譜面を改変したものの二次配布ができます。ただし、非営利目的に限ります。
+    - 作者に聞いてください。(たぶん非営利かつ改変を含む健全な使い方なら許可を出してくれます)
 - holorhysmを遊ぶ場合
-    - 実況プレイなどの配信(動画投稿など)について、私達があなたに悪意を見出さない限り、holorhysm開発チームが公開停止や中止を求めることはありません。
+    - 実況プレイなどの配信(動画投稿など)について、綾坂ことがあなたに悪意を見出さない限り、公開停止や中止を求めることはありません。
         - ただし、[hololive production 二次創作ガイドライン](https://hololivepro.com/terms/)に注意してください。
-    - 広告や投げ銭などで収入を得る場合は、必ず概要欄にクレジット表記をお願いします。クレジット表記がない場合、私達はそこに悪意を見出します。
+    - 広告や投げ銭などで収入を得る場合は、必ず概要欄にクレジット表記をお願いします。クレジット表記がない場合、私はそこに悪意を見出します。
         - クレジット表記には、"holorhysm"と"[https://github.com/holorhysm](https://github.com/holorhysm)"を表記する必要があります。
             - 例 : `Now playing : "holorhysm" - https://github.com/holorhysm`
-    - いずれかのSNSで、登録者・フォロー者数が20万を超えている人は、可能な限り事前に許諾が必要です。
-        - 連絡先は`ayagawap@gmail.com`・Twitterの`@AyaKoto_info`or`@holorhysm_dev`です。
+    - いずれかのSNSで、登録者・フォロー者数が20万を超えている人は、可能な限り事前に許可取りをお願い致します。
+        - 連絡先は`ayagawap@gmail.com`・Twitterの`@AXT_AyaKoto`or`@holorhysm`です。
         - 可能な限り迅速に返信しますが、48時間経っても返信がなければ許可を得たとみなして構いません。
         - 対象者が事務所に所属する場合、事務所が連絡を代理しても構いません。
+            - 事務所からの連絡であれば、事務所に所属する複数人に一括で許可を出したりもします。
+        - @hololive productionのタレントさん : ↑を無視して自由にどうぞ(クレジットだけあると助かります)……というか、むしろ遊んでいただけるんですか？！
 - 創作譜面を作る場合
     - 非営利なら別に勝手に作って公開していただいていいのですが、どうせなら**公式譜面作りませんか？**
     - [譜面制作メンバーは随時募集しています](https://note.com/axt_ayakoto/n/ne5fe9a5cc93d)。
