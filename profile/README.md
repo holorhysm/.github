@@ -101,3 +101,12 @@ Now playing... : "holorhysm" (by Ayasaka-Koto / https://github.com/holorhysm)
     - 韓国語に限り、ハングルによる読み表記`아야사카코토`も許容されます。
 - `https://github.com/holorhysm`をリンク先として表記してください。
     - ゲーム本体のURLと異なります。注意してください。
+
+## アカウント
+
+- Twitter(𝕏)
+    - https://twitter.com/holorhysm
+    - https://twitter.com/i/user/1673203052348846080
+- Youtube
+    - https://www.youtube.com/@holorhysm
+    - https://www.youtube.com/channel/UCLVPxCtibOl-iCOzprmO80w
