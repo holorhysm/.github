@@ -7,21 +7,31 @@
 
 ## リポジトリ
 
-<a href="https://github.com/holorhysm/.github"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.png" width="130px" style="margin-right:8px"></a>
-<a href="https://github.com/holorhysm/system"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/system.png" width="130px" style="margin-right:8px"></a>
-<a href="https://github.com/holorhysm/holorhysm.github.io"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/github.io.png" width="130px" style="margin-right:8px"></a>
-<a href="https://github.com/holorhysm/editor"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/editor.png" width="130px" style="margin-right:8px"></a>
-<a href="https://github.com/holorhysm/promotion"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/promotion.png" width="130px" style="margin-right:8px"></a>
-<a href="https://github.com/holorhysm/assets"><img src="https://cdn.jsdelivr.net/gh/holorhysm/.github/assets/repo-thumbnail/assets.png" width="130px"></a>
+- [.github](https://github.com/holorhysm/.github)
+    - GitHub設定関連
+- [core](https://github.com/holorhysm/core)
+    - ゲーム本体のコード
+- [holorhysm.github.io](https://github.com/holorhysm/holorhysm.github.io)
+    - GitHub Pages (公式サイト)
+- [editor](https://github.com/holorhysm/editor)
+    - 譜面エディタのコード
+- [promotion](https://github.com/holorhysm/promotion)
+    - プロモーション関連
 
 ## 遊び方
+
+### ver0.4.5
 
 - [https://holorhysm.axtech.dev/play/](https://holorhysm.axtech.dev/play/)を開きます。
 - 必要に応じて、PWAとしてインストールすることができます。
     - インストール方法について、Chromeの場合は[こちら](https://support.google.com/chrome/answer/9658361)を参照。
     - インストール方法について、Safariの場合は[こちら](https://support.apple.com/ja-jp/guide/iphone/iph42ab2f3a7/ios#iph4f9a47bbc)を参照。
 
-> 今後、URLが変更になる可能性があります。(時期・詳細未定)
+### ver0.5.0
+
+(Coming soon...)
+
+> URLは変更される予定です。
 
 ## クレジット
 
@@ -63,8 +73,8 @@
         - 所属団体からの連絡であれば、その団体に所属する複数の対象者に一括で許可を出すことも可能です。
     - 上記\[B-3\]の各規定は、hololive productionに所属するタレントには適用されません。
         - hololive productionに所属するタレントの方は事前連絡不要です。
-        - むしろ遊んでいただけるんですか、と言いたい
-        - 次期バージョンが出るまでは待ってくれ！とも言いたい
+            - むしろ遊んでいただけるんですか
+            - できればver0.5.0まで待ってほしいです、見栄えをマシにしたいので……
 
 ### (C) システムファイルを直接利用したい方へ (コードの直接利用)
 
@@ -101,7 +111,7 @@ Now playing... : "holorhysm" (by Ayasaka-Koto / https://github.com/holorhysm)
     - 中国語に限り、中国語漢字表記`綾坂琴翔`(zh-CN), `綾坂琴翔`(zh-TW)も許容されます。
     - 韓国語に限り、ハングルによる読み表記`아야사카코토`も許容されます。
 - `https://github.com/holorhysm`をリンク先として表記してください。
-    - ゲーム本体のURLと異なります。注意してください。
+    - **ゲーム本体のURLと異なります**。注意してください。
 
 ## アカウント
 
