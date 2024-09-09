@@ -13,7 +13,6 @@
 |:----:|:----:|:----:|
 | .github | GitHub設定関連 | https://github.com/holorhysm/.github |
 | core | システム本体 | https://github.com/holorhysm/core |
-| core-react-native | システム本体(React Native) | https://github.com/holorhysm/core-react-native |
 | charts | 譜面ファイル | https://github.com/holorhysm/charts |
 | chart-zipper | 譜面コンテナ化ツール | https://github.com/holorhysm/chart-zipper |
 | holorhysm.github.io | 公式サイト | https://github.com/holorhysm/holorhysm.github.io |
