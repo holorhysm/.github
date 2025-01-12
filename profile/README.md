@@ -7,18 +7,13 @@
 
 ---
 
-## リポジトリ
+## Repositories
 
-| リポジトリ名 | 用途 | リンク |
-|:----:|:----:|:----:|
-| .github | GitHub設定関連 | https://github.com/holorhysm/.github |
-| core | システム本体 | https://github.com/holorhysm/core |
-| charts | 譜面ファイル | https://github.com/holorhysm/charts |
-| chart-zipper | 譜面コンテナ化ツール | https://github.com/holorhysm/chart-zipper |
-| holorhysm.github.io | 公式サイト | https://github.com/holorhysm/holorhysm.github.io |
-| editor | 譜面エディター | https://github.com/holorhysm/editor |
-| promotion | 告知用 | https://github.com/holorhysm/promotion |
-| libretto | 台本 | https://github.com/holorhysm/libretto |
+|      |      |      |      |
+|:----:|:----:|:----:|:----:|
+| [.github](https://github.com/holorhysm/.github) | [core](https://github.com/holorhysm/core) | [charts](https://github.com/holorhysm/charts) | [editor](https://github.com/holorhysm/) |
+| [holorhysm.github.io](https://github.com/holorhysm/holorhysm.github.io) | [chart-zipper](https://github.com/holorhysm/chart-zipper) | [promotion](https://github.com/holorhysm/promotion) | [libretto](https://github.com/holorhysm/libretto) |
+| [JSMC_External](https://github.com/holorhysm/JSMC_External) | [js-libraries](https://github.com/holorhysm/js-libraries) | [music-downloader](https://github.com/holorhysm/music-downloader) | [](https://github.com/holorhysm/) |
 
 ## アカウント
 
