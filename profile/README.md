@@ -9,11 +9,18 @@
 
 ## Repositories
 
-|      |      |      |      |
-|:----:|:----:|:----:|:----:|
-| [.github](https://github.com/holorhysm/.github) | [core](https://github.com/holorhysm/core) | [charts](https://github.com/holorhysm/charts) | [editor](https://github.com/holorhysm/) |
-| [holorhysm.github.io](https://github.com/holorhysm/holorhysm.github.io) | [chart-zipper](https://github.com/holorhysm/chart-zipper) | [promotion](https://github.com/holorhysm/promotion) | [libretto](https://github.com/holorhysm/libretto) |
-| [JSMC_External](https://github.com/holorhysm/JSMC_External) | [js-libraries](https://github.com/holorhysm/js-libraries) | [music-downloader](https://github.com/holorhysm/music-downloader) | [](https://github.com/holorhysm/) |
+| name | description |
+|:----:|:-----|
+| [.github](https://github.com/holorhysm/.github) | 設定 |
+| [core](https://github.com/holorhysm/core) | 本体 |
+| [charts](https://github.com/holorhysm/charts) | 譜面 |
+| [editor](https://github.com/holorhysm/editor) | 譜面エディター |
+| [holorhysm.github.io](https://github.com/holorhysm/holorhysm.github.io) | 公式サイト |
+| [chart-zipper](https://github.com/holorhysm/chart-zipper) | 譜面ファイル化 |
+| [promotion](https://github.com/holorhysm/promotion) | 告知用 |
+| [JSMC_External](https://github.com/holorhysm/JSMC_External) | 参照用 |
+| [js-libraries](https://github.com/holorhysm/js-libraries) | ライブラリ |
+| [music-downloader](https://github.com/holorhysm/music-downloader) | 音源調整用 |
 
 ## アカウント
 
